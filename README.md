@@ -13,7 +13,9 @@ quality of life features. These features include but are not limited to:
 A: Yes, there will be after most features are done and bug free.
 
 > Q: How does the calculator/timers work?
+
 A: It works based off actionbar/other messages.
 
 > Q: Who has access to the beta versions?
+
 A: Select people I gave them to as of now.
