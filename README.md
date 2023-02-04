@@ -2,11 +2,18 @@
 What is it? It is an extras mod for the CTM MMORPG server called Monumenta,
 aiming to provide quality of life features for strikes and some general
 quality of life features. These features include but are not limited to:
+
 -Searchbar
+
 -Strikes timer
+
 -Strikes alerts
+
 -Strikes calculate mob requirement, spawner requirement, and chest requirement
+
 -Cosmetic features
+
+
 # Q&A
 > Q: Will there be a public release?
 
