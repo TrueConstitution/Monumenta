@@ -1,10 +1,10 @@
 {
-  "latestVersion": "BETA-PUBLIC-9",
+  "latestVersion": "N/A",
   "latestBeta": "BETA-PUBLIC-9",
   "author": "TrueConstitution",
   "customnameuuid": [ "79527149-396d-4d58-9e37-51d7a22bfbf4" ],
   "customname": [ "&6[MVP&0++&6] TrueConstitution" ],
   "customnamenocolor": [ "[MVP++] TrueConstitution" ],
-  "currenthash": "11b445a0ad84dbcc19f151b42c92c08438ff6e88",
-"fileschanged": {"monumentaextras.js": "\\", "MMEconfig.json": "\\config\\"}
+  "currenthash": "",
+"fileschanged": {}
 }
