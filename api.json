@@ -7,8 +7,8 @@
   "customnamenocolor": [ "[MVP++] TrueConstitution" ],
   "currenthash": "",
 "fileschanged": {},
-"requiredJsMacrosVer": "jsmacros-1.18.2-FABRIC-1.8.4.jar",
-  "requiredJsMacrosLink": "https://cdn.discordapp.com/attachments/1067175429418516510/1079022585871859763/jsmacros-1.18.2-FABRIC-1.8.4.jar",
+"requiredJsMacrosVer": "jsmacros-1.18.2-FABRIC-1.8.4 (stable).jar",
+  "requiredJsMacrosLink": "https://cdn.discordapp.com/attachments/1067175429418516510/1079077911061078076/jsmacros-1.18.2-FABRIC-1.8.4_stable.jar",
   "requiredLibs": {"gson-2.10.1.jar":"https://search.maven.org/remotecontent?filepath=com/google/code/gson/gson/2.10.1/gson-2.10.1.jar"},
 "requiredLibsTranslator": {"gson":"gson-2.10.1.jar"}
 }
